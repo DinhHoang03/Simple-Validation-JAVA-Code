@@ -62,7 +62,7 @@ public class Main {
              * So which one is more usefull? Do while or while
              * Its really depend on your logic that apply to your input for user.
              * If you first check the input then use while loop
-             * If you need to run it at least once before cheking the condition then use do while is perfect for you
+             * If you need to run it at least once before cheking the condition then  do while is perfect for you
              * Validation is very importain since you have to check user input before pushing user data into database
              * This thing can help you get avoid SQL Injection since you need to security your own database with thousand or milion of user data!
              */
